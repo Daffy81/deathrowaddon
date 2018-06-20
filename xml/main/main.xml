@@ -1,0 +1,82 @@
+#######################################################################################
+<layouttype>List</layouttype>
+#######################################################################################
+
+
+<dir>
+	<name>[I]MOVIE OF THE WEEK[/I]</name>
+	<link>http://aeom.cf/deathrow/movies/motw.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/motw.png</thumbnail>
+</dir>
+
+<dir>
+	<title>[B]ANIME[/B]</title>
+	<tmdb>list/3321</tmdb>
+	<thumbnail>http://aeom.cf/deathrow/images/anime.png</thumbnail>
+</dir>
+
+<dir>
+	<title>[B]MOST POPULAR MOVIES[/B]</title>
+	<imdburl>chart/moviemeter</imdburl>
+	<thumbnail>http://aeom.cf/deathrow/images/mpop.png</thumbnail>
+</dir>
+
+<dir>
+	<title>[B]IN THEATRES NOW[/B]</title>
+	<imdburl>years/2018</imdburl>
+	<thumbnail>http://aeom.cf/deathrow/images/intheatres.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B][COLOR gold]IMDB[/COLOR] Movies[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/movies/imdbtag.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/imdbmov.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B][COLOR gold]TMDB[/COLOR] Movies[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/movies/tmdb.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/tmdbmov.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B][COLOR gold]TRAKT[/COLOR] Movies[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/movies/trakt.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/traktmov.png</thumbnail>
+</dir>
+
+<dir>
+	<title>[B]Real TV[/B]</title>
+	<trakt>https://api.trakt.tv/users/ren3gade/lists/bob-list/items</trakt>
+	<thumbnail>http://aeom.cf/deathrow/images/realtv.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B]TV Networks[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/tvshows/networks.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/tvnetworks.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B][COLOR gold]IMDB[/COLOR] TV SHOWS[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/tvshows/imdbtag.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/imdbtv.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B][COLOR gold]TMDB[/COLOR] TV SHOWS[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/tvshows/tmdb.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/tmdbtv.png</thumbnail>
+</dir>
+
+<dir>
+	<name>[B][COLOR gold]TRAKT[/COLOR] TV SHOWS[/B]</name>
+	<link>http://91.134.207.154/~daffysli/xml/lists/tvshows/trakt.xml</link>
+	<thumbnail>http://aeom.cf/deathrow/images/trakttv.png</thumbnail>
+</dir>
+
+<dir>
+	<title>[B]SEARCH[/B]</title>
+	<trakt>search</trakt>
+	<thumbnail>http://aeom.cf/deathrow/images/search.png</thumbnail>
+</dir>
